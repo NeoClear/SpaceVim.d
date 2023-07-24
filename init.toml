@@ -26,6 +26,7 @@
     wrap_line = true
     relativenumber = false
     bootstrap_before = "neoclear#before"
+    filetree_direction = "left"
 
 # Enable autocomplete layer
 [[layers]]
